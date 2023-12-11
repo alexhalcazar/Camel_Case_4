@@ -34,7 +34,7 @@ S;V;pictureFrame
 
 ### Sample Output
 
-plastic cup
+> plastic cup
 mobilePhone
 CoffeeMachine
 large software book
